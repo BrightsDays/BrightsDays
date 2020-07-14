@@ -1,5 +1,5 @@
-### Hello everyone! 👋
+### Привет! 👋
 
-For the five years I was engaged in the administration of web stores and my information blogs. Often I had to make changes to the structure of sites and layout of individual pages.
-
-Studying JavaScript and React since 2019, making websites remotely since 2020.
+Меня зовут Вячеслав, 33 года, живу в Санкт-Петербурге.
+Пять лет я занимался администрированием сайтов и информационных блогов, вносил правки в структуру сайтов и немного верстал.
+С 2018 года углубился в верстку, начал изучать JS.
