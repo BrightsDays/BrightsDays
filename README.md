@@ -10,7 +10,7 @@
 *2016-2018* - **ВиЛавСпорт**, Контент-менеджер
 
 ## Контакты
-[![](https://img.shields.io/badge/linkedin-viacheslav_ivanov-informational)](https://www.linkedin.com/in/viacheslav-ivanov-3231bb6b/) 
 [![](https://img.shields.io/badge/почта-brightsdayss@gmail.com-red)](mailto:brightsdayss@gmail.com) 
+[![](https://img.shields.io/badge/linkedin-viacheslav_ivanov-informational)](https://www.linkedin.com/in/viacheslav-ivanov-3231bb6b/) 
 [![](https://img.shields.io/badge/telegram-brightsdays-blue)](https://t.me/brightsdays) 
 [![](https://img.shields.io/badge/instagram-brightsdayss-blueviolet)](https://instagram.com/brightsdays)
