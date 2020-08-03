@@ -10,6 +10,5 @@
 *2016-2018* - **ВиЛавСпорт**, Контент-менеджер
 
 ## Контакты
-brightsdayss@gmail.com
-[![](https://img.shields.io/badge/почта-brightsdayss@gmail.com-red)](https://codepen.io/viacheslav-ivanov)
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
+[![](https://img.shields.io/badge/почта-brightsdayss@gmail.com-red)](mailto:brightsdayss@gmail.com) 
+[![](https://img.shields.io/badge/-telegram-blue)](https://t.me/brightsdays)
