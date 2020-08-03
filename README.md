@@ -11,4 +11,5 @@
 
 ## Контакты
 brightsdayss@gmail.com
-[![](https://img.shields.io/badge/-codepen-%23000000)](https://codepen.io/viacheslav-ivanov)
+[![](https://img.shields.io/badge/почта-brightsdayss@gmail.com-red)](https://codepen.io/viacheslav-ivanov)
+https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
