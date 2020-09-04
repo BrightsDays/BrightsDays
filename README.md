@@ -11,6 +11,6 @@
 
 ## Контакты
 [![](https://img.shields.io/badge/почта-brightsdayss@gmail.com-blue)](mailto:brightsdayss@gmail.com)  
-[![](https://img.shields.io/badge/linkedin-viacheslav_ivanov-informational)](https://www.linkedin.com/in/viacheslav-ivanov-3231bb6b/)  
+[![](https://img.shields.io/badge/linkedin-viacheslav_ivanov-informational)](https://www.linkedin.com/in/brightsdays)  
 [![](https://img.shields.io/badge/instagram-brightsdays-blue)](https://instagram.com/brightsdays)  
 [![](https://img.shields.io/badge/telegram-brightsdays-blue)](https://t.me/brightsdays)
