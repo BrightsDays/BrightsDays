@@ -9,7 +9,7 @@
 * Figma, Git
 
 ## Опыт работы
-*2021* - ExtTeam, Frontend-разработчик
+*2021* - ExtTeam, Frontend-разработчик  
 *2020-2021* - **AdCombo**, HTML-верстальщик
 
 ## Контакты
