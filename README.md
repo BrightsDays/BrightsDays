@@ -8,7 +8,7 @@ My name is Viacheslav, 34 years old, live in St. Petersburg.
 * Figma, Git
 
 ## Experience
-*2021* - **ExtTeam**, Frontend Developer  
+*2021-2022* - **ExtTeam**, Frontend Developer  
 *2020-2021* - **AdCombo**, HTML/CSS Developer
 
 ## Contacts
