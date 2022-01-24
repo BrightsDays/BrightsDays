@@ -1,11 +1,13 @@
 ## Hello! 👋
 
-My name is Viacheslav and I live in St. Petersburg.
+My name is Viacheslav and I live in St. Petersburg. 
+
+At the past year I used Vue.js and Nuxt.js for develop web applications.
 
 ## Technologies
-* Pug, SASS, BEM
 * JavaScript, Vue
-* Figma, Git
+* Pug, SCSS, BEM
+* Git, Figma
 
 ## Experience
 *2021-2022* - **ExtTeam**, Frontend Developer  
