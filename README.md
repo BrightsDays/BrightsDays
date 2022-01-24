@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-My name is Viacheslav and I live in St. Petersburg. 
+My name is Viacheslav and I live in St. Petersburg.  
 At the past year I used Vue.js and Nuxt.js for develop web applications.
 
 ## Technologies
