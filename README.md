@@ -6,7 +6,7 @@ I learn Rect, Node.js and related libraries with a target to grow up to full sta
 
 ## Technologies
 * JavaScript, TypeScript
-* Vue, Nuxt, React, Node.js
+* Vue, Nuxt, React, Next, Node.js
 * Jest, Cypress, Postman
 * HTML, SCSS, BEM
 * Git, Figma
@@ -16,4 +16,4 @@ I learn Rect, Node.js and related libraries with a target to grow up to full sta
 *2020-2021* - **AdCombo**, Frontend Developer
 
 ## Contacts
-[![](https://img.shields.io/badge/mail-brightsdayss@gmail.com-blue)](mailto:brightsdayss@gmail.com) [![](https://img.shields.io/badge/telegram-brightsdays-blue)](https://t.me/brightsdays) [![](https://img.shields.io/badge/linkedin-viacheslav_ivanov-informational)](https://www.linkedin.com/in/brightsdays)
+[![](https://img.shields.io/badge/telegram-brightsdays-blue)](https://t.me/brightsdays) [![](https://img.shields.io/badge/mail-brightsdayss@gmail.com-blue)](mailto:brightsdayss@gmail.com)  [![](https://img.shields.io/badge/linkedin-viacheslav_ivanov-informational)](https://www.linkedin.com/in/brightsdays)
