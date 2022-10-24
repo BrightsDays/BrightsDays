@@ -2,7 +2,7 @@
 
 My name is Viacheslav, currently I live in Tbilisi.  
 I participated in creating a corporate portal, admin panels and landing pages constructor with Vue.js and Nuxt; also I have two years of experience in landing pages and online store development.  
-I learn Rect, Node.js and related libraries with a target to grow up to full stack.
+I learn React, Node.js and related libraries with a target to grow up to full stack.
 
 ## Technologies
 * JavaScript, TypeScript
