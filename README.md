@@ -1,10 +1,9 @@
 ## Hello! 👋
 
 My name is Viacheslav, currently I live in Tbilisi.  
-I participated in creating a corporate portal, admin panels and landing pages constructor with Vue.js and Nuxt; also I have two years of experience in landing pages and online store development.  
-I learn React, Node.js and related libraries with a target to grow up to full stack.
+I'm a Frontend Developer with 2+ years of experience. Building PWA with Vue.js and Nuxt.
 
-## Technologies
+## Tech skills
 * JavaScript, TypeScript
 * Vue, Nuxt, React, Next, Node.js
 * Jest, Cypress, Postman
@@ -12,8 +11,9 @@ I learn React, Node.js and related libraries with a target to grow up to full st
 * Git, Figma
 
 ## Experience
+*from 2022* - **Sidus Games**, Frontend Developer  
 *2021-2022* - **ExtTeam**, Frontend Developer  
 *2020-2021* - **AdCombo**, Frontend Developer
 
 ## Contacts
-[![](https://img.shields.io/badge/telegram-brightsdays-blue)](https://t.me/brightsdays) [![](https://img.shields.io/badge/mail-brightsdayss@gmail.com-blue)](mailto:brightsdayss@gmail.com)  [![](https://img.shields.io/badge/linkedin-viacheslav_ivanov-informational)](https://www.linkedin.com/in/brightsdays)
+[![](https://img.shields.io/badge/telegram-brightsdays-blue)](https://t.me/brightsdays) [![](https://img.shields.io/badge/mail-brightsdayss@gmail.com-blue)](mailto:brightsdayss@gmail.com) [![](https://img.shields.io/badge/linkedin-viacheslav_ivanov-informational)](https://www.linkedin.com/in/brightsdays)
