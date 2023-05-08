@@ -1,7 +1,7 @@
 ## Hello! 👋
 
-My name is Viacheslav, currently I live in Tbilisi.  
-I'm a Frontend Developer with 2+ years of experience.  
+My name is Viacheslav, currently I live in Batumi.  
+I'm a Frontend Developer with 3 years of experience.  
 Building PWA with Vue.js since 2021.
 
 ## Tech skills
