@@ -6,9 +6,9 @@ Building PWA with Vue.js since 2021.
 
 ## Tech skills
 * JavaScript, TypeScript
-* Vue, Nuxt, React, Next, Node.js
-* Jest, Cypress, Postman
-* HTML, SCSS, BEM
+* Vue, Nuxt, React, Next, Svelte, Node.js
+* Jest, Playwright, Postman
+* HTML, SCSS
 * Git, Figma
 
 ## Experience
