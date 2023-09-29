@@ -11,7 +11,7 @@ I specialize in Vue.js development since 2021.
 * Git, Figma
 
 ## Experience
-*from 2022* - **Sidus Games**  
+*2022-2023* - **Sidus Games**  
 *2021-2022* - **ExtTeam**  
 *2020-2021* - **AdCombo**
 
