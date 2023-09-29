@@ -1,6 +1,7 @@
 ## Hello! 👋
 
-I'm Viacheslav, currently based in Tbilisi 🇬🇪, and I'm a Frontend Developer with 3 years of experience. I specialize in Vue.js development since 2021.
+I'm Viacheslav, currently based in Tbilisi 🇬🇪, and I'm a Frontend Developer with 3 years of experience.  
+I specialize in Vue.js development since 2021.
 
 ## Tech skills
 * JavaScript, TypeScript
