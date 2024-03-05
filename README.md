@@ -5,9 +5,10 @@ I develop applications that help TTRPG players create and manage their character
 
 ## Tech skills
 * JavaScript, TypeScript
-* Vue, Nuxt, React, Next, Svelte, Node.js
+* Vue, Nuxt, React, Next, Svelte
+* Node.js, Supabase, Firebase
 * Jest, Playwright, Postman
-* HTML, CSS, SCSS
+* HTML, CSS, SCSS, Tailwind CSS
 * Git, Figma
 
 ## Experience
