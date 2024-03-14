@@ -18,3 +18,5 @@ I develop applications that help TTRPG players create and manage their character
 
 ## Contacts
 [![](https://img.shields.io/badge/telegram-brightsdays-blue)](https://t.me/brightsdays) [![](https://img.shields.io/badge/mail-brightsdayss@gmail.com-blue)](mailto:brightsdayss@gmail.com) [![](https://img.shields.io/badge/linkedin-viacheslav_ivanov-informational)](https://www.linkedin.com/in/brightsdays)
+
+[![](https://img.shields.io/badge/Join%20my%20Patreon!-8A2BE2)](https://www.patreon.com/brightsdays/)
