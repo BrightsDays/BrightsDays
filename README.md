@@ -9,7 +9,7 @@ I develop applications that help TTRPG players create and manage their character
 * Node.js, Supabase, Firebase
 * Jest, Playwright, Postman
 * HTML, CSS, SCSS, Tailwind CSS
-* Git, Figma
+* Git, Figma, Procreate
 
 ## Experience
 *2022-2023* - **Sidus Games**  
