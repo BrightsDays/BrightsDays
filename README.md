@@ -12,6 +12,7 @@ I develop applications that help TTRPG players create and manage their character
 * Git, Figma, Procreate
 
 ## Experience
+*2024* - **Yolta*  
 *2022-2023* - **Sidus Games**  
 *2021-2022* - **ExtTeam**  
 *2020-2021* - **AdCombo**
