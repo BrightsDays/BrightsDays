@@ -11,8 +11,8 @@ I develop applications that help TTRPG players create and manage their character
 * HTML, CSS, SCSS, Tailwind CSS
 * Git, Figma, Procreate
 
-## Experience
-*2024* - **Yolta*  
+## Experience 
+*2024* - **Yolta**  
 *2022-2023* - **Sidus Games**  
 *2021-2022* - **ExtTeam**  
 *2020-2021* - **AdCombo**
