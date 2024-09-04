@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-I'm Viacheslav, currently based in Sofia 🇧🇬, and I'm a Frontend Developer with 3 years of experience.  
+I'm Viacheslav, currently based in Sofia 🇧🇬, and I'm a Frontend Developer with 5 years of experience.  
 I develop applications that help TTRPG players create and manage their characters and assist game masters in running their games.
 
 ## Tech skills
