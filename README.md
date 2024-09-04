@@ -15,7 +15,8 @@ I develop applications that help TTRPG players create and manage their character
 *2024* - **Yolta**  
 *2022-2023* - **Sidus Games**  
 *2021-2022* - **ExtTeam**  
-*2020-2021* - **AdCombo**
+*2020-2021* - **AdCombo**  
+*2017-2020* - **GlassFurnitura**
 
 ## Contacts
 [![](https://img.shields.io/badge/telegram-brightsdays-blue)](https://t.me/brightsdays) [![](https://img.shields.io/badge/mail-brightsdayss@gmail.com-blue)](mailto:brightsdayss@gmail.com) [![](https://img.shields.io/badge/linkedin-viacheslav_ivanov-informational)](https://www.linkedin.com/in/brightsdays)
